@@ -2,3 +2,5 @@ this is a feature3 file
 
 
 added some work 
+
+fixed some property
